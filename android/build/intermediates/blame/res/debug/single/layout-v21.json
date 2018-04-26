@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/var/www/html/react-native-hirig/hiring-to-do/android/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/var/www/html/react-native-hirig/hiring-to-do/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/var/www/html/react-native-hirig/hiring-to-do/android/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/var/www/html/react-native-hirig/hiring-to-do/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/var/www/html/react-native-hirig/hiring-to-do/android/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/var/www/html/react-native-hirig/hiring-to-do/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/var/www/html/react-native-hirig/hiring-to-do/android/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/var/www/html/react-native-hirig/hiring-to-do/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
